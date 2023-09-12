@@ -11,7 +11,7 @@ Installation
 ``` json
 {
     "require" : {
-        "polem/waveform" : "*"
+        "bitsec01/waveform" : "*"
     }
 }
 ```

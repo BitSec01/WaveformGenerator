@@ -1,8 +1,8 @@
 {
-    "name": "polem/waveform",
-    "description": "Waveform generator for php 5.3",
+    "name": "bitsec01/waveform",
+    "description": "Waveform generator for php 7.0",
     "keywords": ["waveform"],
-    "homepage": "https://github.com/polem/WaveformGenerator",
+    "homepage": "https://github.com/BitSec01/WaveformGenerator",
     "license": "MIT",
     "require": {
         "symfony/process": "*"
@@ -13,8 +13,8 @@
     "minimum-stability": "dev",
     "authors": [
         {
-            "name": "Paul-Emile MINY",
-            "email": "paulemile.miny@gmail.com"
+            "name": "BitSec",
+            "email": "no-reply@gmail.com"
         }
     ]
 }

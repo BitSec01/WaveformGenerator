@@ -3,6 +3,8 @@ Waveform Generator
 
 Just a simple wrapper for "[waveform](/superjoe30/waveform)" c script written by "[Andrew Kelley](/superjoe30)"
 
+This FORK updates the version to be compatible with PHP 7.0 and it fixes a --png argument issue that the original "[polem/waveform](polem/waveform)" had.
+
 Installation
 ------------
 
